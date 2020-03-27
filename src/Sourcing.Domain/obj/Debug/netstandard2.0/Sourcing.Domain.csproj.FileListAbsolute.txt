@@ -1,0 +1,9 @@
+C:\source\Sourcing\Sourcing.Domain\bin\Debug\netstandard2.0\Sourcing.Domain.deps.json
+C:\source\Sourcing\Sourcing.Domain\bin\Debug\netstandard2.0\Sourcing.Domain.dll
+C:\source\Sourcing\Sourcing.Domain\obj\Debug\netstandard2.0\Sourcing.Domain.csprojAssemblyReference.cache
+C:\source\Sourcing\Sourcing.Domain\obj\Debug\netstandard2.0\Sourcing.Domain.AssemblyInfoInputs.cache
+C:\source\Sourcing\Sourcing.Domain\obj\Debug\netstandard2.0\Sourcing.Domain.AssemblyInfo.cs
+C:\source\Sourcing\Sourcing.Domain\bin\Debug\netstandard2.0\Sourcing.Domain.pdb
+C:\source\Sourcing\Sourcing.Domain\obj\Debug\netstandard2.0\Sourcing.Domain.dll
+C:\source\Sourcing\Sourcing.Domain\obj\Debug\netstandard2.0\Sourcing.Domain.pdb
+C:\source\Sourcing\Sourcing.Domain\obj\Debug\netstandard2.0\Sourcing.Domain.csproj.CoreCompileInputs.cache
