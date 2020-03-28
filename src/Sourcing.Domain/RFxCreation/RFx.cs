@@ -43,7 +43,7 @@ namespace Sourcing.Domain.RFxCreation
                 case SupplierAdded supplierAdded:
                     this.suppliers.Add(supplierAdded.Supplier);
                     return;
-            }
+            };
         }
     }
 }

@@ -3,8 +3,10 @@ using System.Collections.Generic;
 
 namespace Sourcing.Domain.RFxCreation
 {
-    internal class RFxEvent 
+    internal abstract class RFxEvent
     {
+        private RFxEvent() { }
+
         public class RFxCreated : RFxEvent
         {
             public RFxCreated(string name, DateTime biddingStartDateInUtc, DateTime biddingEndDateInUtc)
