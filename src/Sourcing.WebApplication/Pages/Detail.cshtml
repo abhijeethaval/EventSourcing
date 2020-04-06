@@ -1,0 +1,33 @@
+﻿@page "{entityname}/{entityid}"
+@using System.Reflection
+@using System.Collections
+@model Sourcing.WebApplication.Pages.DetailModel
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h1>Detail</h1>
+@foreach (var (name, value) in Model.Model.ScalarProperties)
+{
+    @Html.DisplayName(name)
+    <br />
+    if (value is string stringValue)
+    {
+        @Html.Label(stringValue)
+        <br />
+        <br />
+    }
+    else if (value is DateTime dateTimeValue)
+    {
+        @Html.Label(dateTimeValue.ToString())
+        <br />
+        <br />
+    }
+    else
+    {
+        @Html.Label(Convert.ToString(value))
+        <br />
+        <br />
+    }
+}
+

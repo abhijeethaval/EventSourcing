@@ -3,3 +3,7 @@
 ################################################################################
 
 /src/Sourcing.WebApplication/bin/Debug/netcoreapp3.1
+/src/Sourcing.WebApplication/obj
+/src/Sourcing.Domain/bin/Debug
+/src/Sourcing.Domain/obj
+/src/Sourcing.WebApplication/wwwroot/lib
